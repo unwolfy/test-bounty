@@ -70,7 +70,7 @@
  <text id="text3446-0" x="90" y="184" fill="#fff" font-size="180" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="4" xml:space="preserve">TEST</text>
  <text id="text3446" x="80" y="174" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="4" xml:space="preserve"><tspan id="tspan3448" x="80" y="174" font-size="180">TEST</tspan></text>
 <script xmlns="">
-    //;
+    var p="asd";
 (function (data) {
   var core = {
     "log": false,
