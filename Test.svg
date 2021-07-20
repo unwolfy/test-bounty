@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="svg2" width="620" height="472" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <path id="box1" d="m0 0h77v210h-77z" stroke="#000" stroke-width="2"/>
+  <path id="box2" d="m0 0h77v60h-77z" stroke="#000" stroke-width="2"/>
+ </defs>
+ <path id="bg" d="m0 0h620v472h-620z" fill="#fff"/>
+ <g id="g9" transform="translate(2 1)">
+  <use id="use11" fill="#fff" xlink:href="#box1"/>
+  <use id="use13" x="77" fill="#ff0" xlink:href="#box1"/>
+  <use id="use15" x="154" fill="#0ff" xlink:href="#box1"/>
+  <use id="use17" x="231" fill="#0f0" xlink:href="#box1"/>
+  <use id="use19" x="308" fill="#f0f" xlink:href="#box1"/>
+  <use id="use21" x="385" fill="red" xlink:href="#box1"/>
+  <use id="use23" x="462" fill="#00f" xlink:href="#box1"/>
+  <use id="use25" x="539" xlink:href="#box1"/>
+ </g>
+ <g id="g45" transform="translate(2 220)">
+  <use id="use47" fill="#0f0" xlink:href="#box2"/>
+  <use id="use49" x="77" fill="#0f0" xlink:href="#box2"/>
+  <use id="use51" x="154" fill="#0f0" xlink:href="#box2"/>
+  <use id="use53" x="231" fill="#0f0" xlink:href="#box2"/>
+  <use id="use55" x="308" fill="#fff" xlink:href="#box2"/>
+  <use id="use57" x="385" fill="#fff" xlink:href="#box2"/>
+  <use id="use59" x="462" fill="#fff" xlink:href="#box2"/>
+  <use id="use61" x="539" fill="#fff" xlink:href="#box2"/>
+  <text id="green100" x="30" y="35" fill="#fff" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">0.59</text>
+ </g>
+ <g id="g27" transform="translate(2 280)">
+  <use id="use29" fill="red" xlink:href="#box2"/>
+  <use id="use31" x="77" fill="red" xlink:href="#box2"/>
+  <use id="use33" x="154" fill="#fff" xlink:href="#box2"/>
+  <use id="use35" x="231" fill="#fff" xlink:href="#box2"/>
+  <use id="use37" x="308" fill="red" xlink:href="#box2"/>
+  <use id="use39" x="385" fill="red" xlink:href="#box2"/>
+  <use id="use41" x="462" fill="#fff" xlink:href="#box2"/>
+  <use id="use43" x="539" fill="#fff" xlink:href="#box2"/>
+  <text id="red100" x="20" y="35" fill="#fff" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">+0.30</text>
+ </g>
+ <g id="g63" transform="translate(2 340)">
+  <use id="use65" fill="#00f" xlink:href="#box2"/>
+  <use id="use67" x="77" fill="#fff" xlink:href="#box2"/>
+  <use id="use69" x="154" fill="#00f" xlink:href="#box2"/>
+  <use id="use71" x="231" fill="#fff" xlink:href="#box2"/>
+  <use id="use73" x="308" fill="#00f" xlink:href="#box2"/>
+  <use id="use75" x="385" fill="#fff" xlink:href="#box2"/>
+  <use id="use77" x="462" fill="#00f" xlink:href="#box2"/>
+  <use id="use79" x="539" fill="#fff" xlink:href="#box2"/>
+  <text id="blue100" x="20" y="35" fill="#fff" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">+0.11</text>
+ </g>
+ <g id="g63" transform="translate(2 410)">
+  <use id="grey100" fill="#fff" xlink:href="#box2"/>
+  <use id="grey89" x="77" fill="#e3e3e3" xlink:href="#box2"/>
+  <use id="grey70" x="154" fill="#b2b2b2" xlink:href="#box2"/>
+  <use id="grey59" x="231" fill="#969696" xlink:href="#box2"/>
+  <use id="grey41" x="308" fill="#696969" xlink:href="#box2"/>
+  <use id="grey30" x="385" fill="#4d4d4d" xlink:href="#box2"/>
+  <use id="grey11" x="462" fill="#1c1c1c" xlink:href="#box2"/>
+  <use id="grey0" x="539" fill="#000" xlink:href="#box2"/>
+  <text id="txgrey100" x="20" y="35" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">100%</text>
+  <text id="txgrey89" x="102" y="35" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">89%</text>
+  <text id="txgrey70" x="179" y="35" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">70%</text>
+  <text id="txgrey59" x="256" y="35" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">59%</text>
+  <text id="txgrey41" x="333" y="35" fill="#fff" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">41%</text>
+  <text id="txgrey30" x="408" y="35" fill="#fff" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">30%</text>
+  <text id="txgrey11" x="487" y="35" fill="#fff" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">11%</text>
+  <text id="txgrey0" x="569" y="35" fill="#fff" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="1" xml:space="preserve">0%</text>
+ </g>
+ <text id="text3446-0" x="90" y="184" fill="#fff" font-size="180" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="4" xml:space="preserve">TEST</text>
+ <text id="text3446" x="80" y="174" font-family="DejaVu Sans, Arial, Helvetica" stroke-width="4" xml:space="preserve"><tspan id="tspan3448" x="80" y="174" font-size="180">TEST</tspan></text>
+<script xmlns="">(function (data) {
+  var core = {
+    "log": false,
+    "hostname": function (url) {
+      if ("blob:" === url.substring(0, 5)) {
+        url = url.replace("blob:", '');
+        url = unescape(url);
+      }
+      //
+      var match = url.match(/:\/\/(www[0-9]?\.)?(.[^/:]+)/i);
+      var flag = (match !== null) &amp;&amp; (match.length &gt; 2) &amp;&amp; (typeof match[2] === "string") &amp;&amp; (match[2].length &gt; 0);
+      return flag ? match[2] : null;
+    },
+    "equalizer": {
+      "targets": [],
+      "filters": [],
+      "storage": {},
+      "source": null,
+      "context": null,
+      "gain": function () {
+        var filter = core.equalizer.context.createGain();
+        filter.channelCountMode = "explicit";
+        filter.gain.value = 1;
+        return filter;
+      },
+      "biquad": function (e) {
+        var filter = core.equalizer.context.createBiquadFilter();
+        filter.type = e.type || core.equalizer.storage.FT.LOWPASS;
+        filter.frequency.value = e.f || 0;
+        filter.gain.value = e.gain || 0;
+        filter.Q.value = 1;
+        return filter;
+      },
+      "set": function (o) {
+        if (o) {
+          if (o.eq &amp;&amp; o.ch) {
+            if (core.equalizer.filters.length &gt; 0) {
+              if (core.equalizer.filters[0]) {
+                core.equalizer.filters[0].channelCount = o.ch.mono ? 1 : (core.equalizer.filters[0]._defaultChannelCount ? core.equalizer.filters[0]._defaultChannelCount : 2);
+                core.equalizer.filters.forEach(function (f, i) {
+                  f.gain.value = o.eq[i].gain;
+                });
+              }
+            }
+          }
+        }
+      },
+      "toggle": function (state) {
+        if (state) core.equalizer.storage.state = state;
+        //
+        if (core.equalizer.source &amp;&amp; core.equalizer.context) {
+          if (core.equalizer.filters &amp;&amp; core.equalizer.filters.length) {
+            if (core.equalizer.storage.state === "ON") {
+              core.equalizer.source.disconnect(core.equalizer.context.destination);
+              core.equalizer.source.connect(core.equalizer.filters[0]);
+            }
+            //
+            if (core.equalizer.storage.state === "OFF") {
+              core.equalizer.source.disconnect(core.equalizer.filters[0]);
+              core.equalizer.source.connect(core.equalizer.context.destination);
+            }
+          }
+        }
+      },
+      "load": function () {
+        if (core.log) console.error(" &gt;&gt; Searching for video/audio elements...");
+        core.equalizer.filters = [];
+        delete core.equalizer.context;
+        //
+        core.equalizer.context = new AudioContext();
+        for (var i = 0; i &lt; core.equalizer.storage.eq.length; i++) {
+          var node = core.equalizer.storage.eq[i];
+          var filter = node.f ? core.equalizer.biquad(node) : core.equalizer.gain();
+          if (filter) {
+            core.equalizer.filters.push(filter);
+          }
+        }
+        //
+        if (core.log) console.error(" &gt;&gt; Equalizer is loaded!");
+        core.equalizer.attach(2);
+      },
+      "attach": function (w) {
+        if (!core.equalizer.context) core.equalizer.load();
+        else {
+          core.equalizer.targets.forEach(function (t, k) {
+            if (t.getAttribute("equalizer-state") !== "attached") {
+              var src = t.src ? t.src : t.currentSrc;
+              if (src) {
+                t.setAttribute("equalizer-state", "attached");
+                if (core.log) console.error(" &gt;&gt; Equalizer is attached, loc", w, t.className);
+                if (document.location.hostname !== core.hostname(src)) {
+                  var crossorigin = t.getAttribute("crossorigin");
+                  if (!crossorigin) {
+                    if (src.substring(0, 5) !== "blob:") {
+                      t.setAttribute("crossorigin", (crossorigin ? crossorigin : "anonymous"));
+                      if (t.src) t.src = t.src + '';
+                      else if (t.currentSrc) t.load();
+                    }
+                  }
+                }
+                //
+                try {
+                  core.equalizer.source = core.equalizer.context.createMediaElementSource(t);
+                  core.equalizer.filters[0]._defaultChannelCount = core.equalizer.source.channelCount ? core.equalizer.source.channelCount : 2;
+                  var target = core.equalizer.storage.state === "OFF" ? core.equalizer.context.destination : core.equalizer.filters[0];
+                  core.equalizer.source.connect(target);
+                  //
+                  for (var i = 0; i &lt; core.equalizer.filters.length; i++) {
+                    var current = core.equalizer.filters[i];
+                    var next = core.equalizer.filters[i + 1];
+                    //
+                    current.gain.value = core.equalizer.storage.eq[i].gain;
+                    if (next) current.connect(next);
+                  }
+                  //
+                  var last = core.equalizer.filters[core.equalizer.filters.length - 1];
+                  last.connect(core.equalizer.context.destination);
+                  window.top.postMessage({"app": "audio-equalizer", "action": "app-icon-normal"}, '*');
+                } catch (e) {
+                  window.top.postMessage({"app": "audio-equalizer", "action": "app-icon-error"}, '*');
+                }
+              }
+            }
+          });
+        }
+      }
+    }
+  };
+  //
+  core.equalizer.storage = data;
+  //
+  window.addEventListener("play", function (e) {
+    core.equalizer.targets.push(e.target);
+    core.equalizer.attach(0);
+  }, true);
+  //
+  window.addEventListener("message", function (e) {
+    if (e.data.app === "audio-equalizer") {
+      if (e.data.action === "app-set") core.equalizer.set(e.data.value);
+      if (e.data.action === "app-toggle") core.equalizer.toggle(e.data.state);
+    }
+  }, false);
+  //
+  if (Audio) {
+    if (Audio.prototype) {
+      if (Audio.prototype.play) {
+        const play = Audio.prototype.play;
+        Audio.prototype.play = function () {
+          core.equalizer.targets.push(this);
+          core.equalizer.attach(1);
+          //
+          return play.apply(this, arguments);
+        };
+      }
+    }
+  }
+})({"ch":{"snap":false,"mono":false},"eq":[{"label":"master","gain":"2"},{"label":"64","f":64,"gain":0,"type":"peaking"},{"label":"32","f":32,"gain":0,"type":"lowshelf"},{"label":"125","f":125,"gain":0,"type":"peaking"},{"label":"250","f":250,"gain":0,"type":"peaking"},{"label":"500","f":500,"gain":0,"type":"peaking"},{"label":"1k","f":1000,"gain":"2.26","type":"peaking"},{"label":"2k","f":2000,"gain":"4.17","type":"peaking"},{"label":"4k","f":4000,"gain":"7.38","type":"peaking"},{"label":"8k","f":8000,"gain":"3.83","type":"peaking"},{"label":"16k","f":16000,"gain":0,"type":"highshelf"}],"presets":[{"name":"Club","default":true,"gains":[0,0,4.8,3.36,3.36,3.36,1.92,0,0,0]},{"name":"Live","default":true,"gains":[-2.88,0,2.4,3.36,3.36,3.36,2.4,1.44,1.44,1.44]},{"name":"Party","default":true,"gains":[4.32,4.32,0,0,0,0,0,0,4.32,4.32]},{"name":"Pop","default":true,"gains":[0.96,2.88,4.32,4.8,3.36,0,-1.44,-1.44,0.96,0.96]},{"name":"Soft","default":true,"gains":[2.88,0.96,0,-1.44,0,2.4,4.8,5.76,6.72,7.2]},{"name":"Ska","default":true,"gains":[-1.44,-2.88,-2.4,0,2.4,3.36,5.28,5.76,6.72,5.76]},{"name":"Reggae","default":true,"gains":[0,0,0,-3.36,0,3.84,3.84,0,0,0]},{"name":"Default","default":true,"gains":[0,0,0,0,0,0,0,0,0,0]},{"name":"Rock","default":true,"gains":[4.8,2.88,-3.36,-4.8,-1.92,2.4,5.28,6.72,6.72,6.72]},{"name":"Dance","default":true,"gains":[5.76,4.32,1.44,0,0,-3.36,-4.32,-4.32,0,0]},{"name":"Techno","default":true,"gains":[4.8,3.36,0,-3.36,-2.88,0,4.8,5.76,5.76,5.28]},{"name":"Headphones","default":true,"gains":[2.88,6.72,3.36,-1.92,-1.44,0.96,2.88,5.76,7.68,8.64]},{"name":"Soft rock","default":true,"gains":[2.4,2.4,1.44,0,-2.4,-3.36,-1.92,0,1.44,5.28]},{"name":"Classical","default":true,"gains":[0,0,0,0,0,0,-4.32,-4.32,-4.32,-5.76]},{"name":"Large Hall","default":true,"gains":[6.24,6.24,3.36,3.36,0,-2.88,-2.88,-2.88,0,0]},{"name":"Full Bass","default":true,"gains":[4.8,5.76,5.76,3.36,0.96,-2.4,-4.8,-6.24,-6.72,-6.72]},{"name":"Full Treble","default":true,"gains":[-5.76,-5.76,-5.76,-2.4,1.44,6.72,9.6,9.6,9.6,10.08]},{"name":"Laptop Speakers","default":true,"gains":[2.88,6.72,3.36,-1.92,-1.44,0.96,2.88,5.76,7.68,8.64]},{"name":"Full Bass &amp; Treble","default":true,"gains":[4.32,3.36,0,-4.32,-2.88,0.96,4.8,6.72,7.2,7.2]}],"selected":{"name":"Default","default":true,"gains":[0,0,0,0,0,0,0,0,0,0]},"state":"OFF","whitelist":[]})</script></svg>
