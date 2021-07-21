@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg
         [<!ENTITY xxe SYSTEM "https://upload.wikimedia.org/wikipedia/commons/b/bd/Test.svg" >]
-        PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+        >
 <svg id="svg2" width="620" height="472" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs id="defs4">
   <path id="box1" d="m0 0h77v210h-77z" stroke="#000" stroke-width="2"/>
