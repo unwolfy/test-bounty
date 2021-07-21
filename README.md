@@ -1,7 +1,7 @@
 
 <<script>alert</script>s<script>alert</script>>script>alert</script>
 
-<a href='http://alerT(2)? &#34;<script></script>'>test</a>
+<a href='http://alerT(2)? &#39;<script></script>'>test</a>
 <img src="http://evil?<<img src="//evil?
 
 <br/>
