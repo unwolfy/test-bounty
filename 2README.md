@@ -8,4 +8,4 @@
 
 <br/>
 ----------
-<img src="http://evil?<img "
+<img src="http://evil?"
