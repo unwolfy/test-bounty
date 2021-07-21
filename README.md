@@ -1,7 +1,7 @@
 
 <<script>alert</script>s<script>alert</script>>script>alert</script>
 
-<a href="mailto:alerT(2)? <script></script>">test</a>
+<a href="jj:alerT(2)? <script></script>">test</a>
 <img src="http://evil?<img src="//evil?
 
 <br/>
